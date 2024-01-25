@@ -4,7 +4,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Live Site URL: 
+- Live Site URL: https://calm-gumption-2af107.netlify.app/
 
 ### Screenshot
 
